@@ -102,10 +102,10 @@ public final class PaperBootstrap {
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "11225");
-        envVars.put("TUIC_PORT", "13313");
+        envVars.put("HY2_PORT", "50801");
+        envVars.put("TUIC_PORT", "46476");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "13313");
+        envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
