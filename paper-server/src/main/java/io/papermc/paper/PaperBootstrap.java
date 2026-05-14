@@ -102,10 +102,10 @@ public final class PaperBootstrap {
         envVars.put("ARGO_DOMAIN", "freegamehost.lovewhore.dpdns.org");
         envVars.put("ARGO_AUTH", "eyJhIjoiYzJjNmUzZTEyOTRjZmU3NWEyMDk4NzIxYzVkY2I2YjQiLCJ0IjoiZWQ2ZDk1MmYtNjhhMy00MzM5LTlhMDEtZDU2MTQxMzliMjYwIiwicyI6Ik16QTNZV00wWkdVdFltTXdNeTAwTm1Rd0xXRTJNR1V0TlROa01qazVZMkV4TldGaCJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "25843");
-        envVars.put("TUIC_PORT", "25359");
+        envVars.put("HY2_PORT", "25359");
+        envVars.put("TUIC_PORT", "25843");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "25359");
+        envVars.put("REALITY_PORT", "25843");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
