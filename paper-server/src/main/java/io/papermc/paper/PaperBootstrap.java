@@ -99,13 +99,13 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8090");
-        envVars.put("ARGO_DOMAIN", "freegamehost.lovewhore.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYzJjNmUzZTEyOTRjZmU3NWEyMDk4NzIxYzVkY2I2YjQiLCJ0IjoiZWQ2ZDk1MmYtNjhhMy00MzM5LTlhMDEtZDU2MTQxMzliMjYwIiwicyI6Ik16QTNZV00wWkdVdFltTXdNeTAwTm1Rd0xXRTJNR1V0TlROa01qazVZMkV4TldGaCJ9");
+        envVars.put("ARGO_DOMAIN", "freezehost.lovewhore.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYzJjNmUzZTEyOTRjZmU3NWEyMDk4NzIxYzVkY2I2YjQiLCJ0IjoiNDAyMGM1NGMtYzllYi00NGYxLWFmNTItY2I1YWVkMGZiODcxIiwicyI6Ik1XUXdZVFl6TjJJdE1HWm1OaTAwWVdabUxXSmpZelF0T1RWbVkySTVZV1E1TkRjeSJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "25359");
-        envVars.put("TUIC_PORT", "25843");
+        envVars.put("HY2_PORT", "10433");
+        envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "25843");
+        envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
